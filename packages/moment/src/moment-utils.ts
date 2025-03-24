@@ -425,3 +425,5 @@ export default class MomentUtils implements IUtils<defaultMoment.Moment, string>
     return date.isBetween(start, end, null, "[]");
   };
 }
+
+export { Moment }

@@ -1,1 +1,1 @@
-export { default } from "./moment-utils";
+export { default, Moment } from "./moment-utils";
