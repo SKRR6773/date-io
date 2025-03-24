@@ -1,6 +1,6 @@
 {
-  "name": "date-io",
-  "private": true,
+  "name": "fix-date-io",
+  "private": false,
   "version": "1.0.0",
   "description": "Abstraction over common javascript date management libraries",
   "main": "index.js",

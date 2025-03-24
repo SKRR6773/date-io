@@ -1,1 +1,2 @@
-export { default, Moment } from "./moment-utils";
+export { default } from "./moment-utils";
+export type { Moment } from './moment-utils';
